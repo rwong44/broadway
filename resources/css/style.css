@@ -9,23 +9,23 @@ h1 {
   color: white;
 }
 
-h5 {
-  font-size: 18px;
-  color: white;
-}
-
 h3 {
   font-size: 32px;
   font-weight: bold;
 }
 
 h4 {
-  font-size: 23px
+  font-size: 23px;
   font-weight: bold;
 }
 
 .header-image {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.nav-link {
+  font-size: 18px;
+  color: white;
 }
 
 .design-NY {
@@ -40,4 +40,8 @@ h4 {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+#link-footer {
+  color: white;
 }
